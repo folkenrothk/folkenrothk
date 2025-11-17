@@ -1,7 +1,7 @@
 ## Kate Folkenroth
-### Graduate Student | Digital Humanist | Information Ethicist
+### Electronic Records Archivist | Digital Humanist | Information Ethicist
 
-Current Work:
+Archived Work:
   - Lead Developer | [Folk Archive](github.com/Folk-Archive)
 
 
